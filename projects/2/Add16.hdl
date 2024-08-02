@@ -25,7 +25,6 @@ CHIP Add16 {
     FullAdder(a=a[9], b=b[9], c=c8, sum=out[9], carry=c9);
     FullAdder(a=a[10], b=b[10], c=c9, sum=out[10], carry=c10);
     FullAdder(a=a[11], b=b[11], c=c10, sum=out[11], carry=c11);
-    
 
     FullAdder(a=a[12], b=b[12], c=c11, sum=out[12], carry=c12);
     FullAdder(a=a[13], b=b[13], c=c12, sum=out[13], carry=c13);

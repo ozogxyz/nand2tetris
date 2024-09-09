@@ -1,3 +1,4 @@
 .DS_Store
 tools/bin/*.dat
 **/*.dat
+tools/bin/HardwareSimulator.dat

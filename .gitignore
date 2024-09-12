@@ -2,3 +2,6 @@
 tools/bin/*.dat
 **/*.dat
 tools/bin/HardwareSimulator.dat
+*.dat
+*/*.dat
+**/*.dat
